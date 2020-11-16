@@ -1,7 +1,9 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Leetcode](README.md)
+* [二叉树](er-cha-shu/README.md)
+  * [114. 二叉树展开为链表](er-cha-shu/114.-er-cha-shu-zhan-kai-wei-lian-biao.md)
 * [Second part](second-part.md)
-* [Product demo](product-demo.md)
-* [简历](jian-li.md)
+* [简历](jian-li/README.md)
+  * [Product demo](jian-li/product-demo.md)
 
